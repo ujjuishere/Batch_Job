@@ -1,0 +1,4 @@
+metric,date,average_value,min_value,max_value
+precipitation,2022-06-04,0.5,0.5,0.5
+precipitation,2022-06-05,0.7,0.7,0.7
+temperature,2022-06-04,88.0,87.0,89.0
